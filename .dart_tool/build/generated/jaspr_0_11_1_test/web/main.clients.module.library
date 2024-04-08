@@ -1,1 +1,0 @@
-{"isEntrypoint":true,"deps":["jaspr|lib/browser.dart","jaspr_0_11_1_test|web/pages/about.client.dart","jaspr_0_11_1_test|web/pages/home.client.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":true}

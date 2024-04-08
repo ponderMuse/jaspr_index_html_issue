@@ -1,1 +1,0 @@
-{"isEntrypoint":false,"deps":["js|lib/js.dart","jaspr|lib/src/foundation/sync.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert","js"],"hasMain":false}
