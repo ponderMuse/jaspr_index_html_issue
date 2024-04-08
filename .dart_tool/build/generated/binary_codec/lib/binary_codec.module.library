@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["binary_codec|lib/src/binary_codec.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert","typed_data"],"hasMain":false}

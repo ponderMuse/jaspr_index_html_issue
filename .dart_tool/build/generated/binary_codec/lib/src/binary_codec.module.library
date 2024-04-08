@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["binary_codec|lib/src/byte_reader.dart","binary_codec|lib/src/byte_writer.dart","binary_codec|lib/src/tags.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert","math","typed_data"],"hasMain":false}
